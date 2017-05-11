@@ -8,8 +8,10 @@ Related Paper of Efficient Deep Neural Networks
 ## Sparse, Quantization and Compression
 
 ### Sparse
-1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044)
-2. []()
+1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)[NIPS2015]
+2. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)[NIPS2016]
+3. [Learning Structured Sparsity in Deep Neural Networks]()
 
 ### Quantization
-1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044)
+1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044)[ICLR2017]
+2. []
