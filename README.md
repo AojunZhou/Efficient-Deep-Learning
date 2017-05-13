@@ -21,7 +21,7 @@ Related Paper of Efficient Deep Neural Networks
 
 ## Light Network Structure
 1. [SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and < 0.5MB Model Size](https://arxiv.org/pdf/1602.07360v3.pdf)
-2. []
+2. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861v1)
 3. []
 ## Distillation
 
