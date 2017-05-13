@@ -25,4 +25,6 @@ Related Paper of Efficient Deep Neural Networks
 3. []
 ## Distillation
 
-## Hardware Optimation, Speed Up
+## Speed Up
+
+## Hardware Optimation
