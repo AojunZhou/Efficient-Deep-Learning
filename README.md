@@ -26,7 +26,7 @@ Related Paper of Efficient Deep Neural Networks
 3. [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn) [Code](https://arxiv.org/abs/1611.08588)
 
 ## Distillation
-
+1. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 ## Speed Up
 
 ## Hardware Optimation
