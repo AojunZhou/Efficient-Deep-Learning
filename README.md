@@ -8,15 +8,15 @@ Related Paper of Efficient Deep Neural Networks
 ## Sparse, Quantization and Compression
 
 ### Sparse
-1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS2015]
+1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS 2015]
 2. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS2016]  [Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)
-3. [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/abs/1608.03665) [NIPS2016]  [Code](https://github.com/wenwei202/caffe/tree/scnn)
-4. [Sparse Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)
+3. [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/abs/1608.03665) [NIPS 2016]  [Code](https://github.com/wenwei202/caffe/tree/scnn)
+4. [Sparse Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf) [CVPR 2015]
 
 ### Quantization
-1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [ICLR2017]
-2. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149v5.pdf) [ICLR2016]
-3. [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) [ECCV2016]  [Code](https://github.com/allenai/XNOR-Net)
+1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [ICLR 2017]
+2. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149v5.pdf) [ICLR 2016]
+3. [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) [ECCV 2016]  [Code](https://github.com/allenai/XNOR-Net)
 4. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://www.arxiv.org/abs/1609.07061)
 5. [Trained Tenary Quantization]() [ICLR2017]
 
@@ -26,7 +26,7 @@ Related Paper of Efficient Deep Neural Networks
 3. [PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://github.com/sanghoon/pva-faster-rcnn) [Code](https://arxiv.org/abs/1611.08588)
 
 ## Distillation
-1. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+1. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) [NIPS 2014]
 ## Speed Up
 
 ## Hardware Optimation
