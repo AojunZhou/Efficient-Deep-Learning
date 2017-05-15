@@ -28,5 +28,10 @@ Related Paper of Efficient Deep Neural Networks
 ## Distillation
 1. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) [NIPS 2014]
 ## Speed Up
+1. [Fast Training of Convolutional Networks through FFTs]() [ICLR 2013]
+2. [Fast algorithms for convolutional neural networks]() [CVPR 2016]
+
 
 ## Hardware Optimation
+1.
+2.
