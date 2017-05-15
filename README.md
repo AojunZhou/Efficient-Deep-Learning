@@ -12,8 +12,8 @@ Related Paper of Efficient Deep Neural Networks
 2. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS2016]  [Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)
 3. [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/abs/1608.03665) [NIPS 2016]  [Code](https://github.com/wenwei202/caffe/tree/scnn)
 4. [Sparse Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf) [CVPR 2015]
-5.
-6.
+5. [Pruning Filters for Efficient ConvNets](https://openreview.net/pdf?id=rJqFGTslg) [ICLR 2017]
+6. 
 
 ### Quantization
 1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [ICLR 2017]
@@ -24,6 +24,9 @@ Related Paper of Efficient Deep Neural Networks
 6. [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)  [Code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/DoReFa-Net)
 7. [Binaryconnect: Training deep neural networks with binary weights during propagations](https://arxiv.org/pdf/1511.00363.pdf) [NIPS 2015]
 8. [Binarize neural networks: Training deep neural networks with weights and activations constrained to +1 or -1](https://arxiv.org/abs/1602.02505) [NIPS 2016]
+9.
+10.
+11.
 
 ## Light Network Structure
 1. [SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and < 0.5MB Model Size](https://arxiv.org/pdf/1602.07360v3.pdf)
