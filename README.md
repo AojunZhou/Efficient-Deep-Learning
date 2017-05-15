@@ -18,7 +18,8 @@ Related Paper of Efficient Deep Neural Networks
 2. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149v5.pdf) [ICLR 2016]
 3. [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) [ECCV 2016]  [Code](https://github.com/allenai/XNOR-Net)
 4. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://www.arxiv.org/abs/1609.07061)
-5. [Trained Tenary Quantization]() [ICLR2017]
+5. [Trained Tenary Quantization](https://arxiv.org/abs/1612.01064) [ICLR2017]  [Code](https://github.com/czhu95/ternarynet)
+5. [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)  [Code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/DoReFa-Net)
 
 ## Light Network Structure
 1. [SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and < 0.5MB Model Size](https://arxiv.org/pdf/1602.07360v3.pdf)
