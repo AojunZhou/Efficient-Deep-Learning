@@ -3,7 +3,7 @@ Related Paper of Efficient Deep Neural Networks
 
 ## Reviews and Tutorials
 1. [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039)
-2. [High-Performance Hardware for Machine Learning]
+2. [High-Performance Hardware for Machine Learning](https://media.nips.cc/Conferences/2015/tutorialslides/Dally-NIPS-Tutorial-2015.pdf)
 
 ## Sparse, Quantization and Compression
 
@@ -11,6 +11,7 @@ Related Paper of Efficient Deep Neural Networks
 1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS2015]
 2. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS2016]  [Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)
 3. [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/abs/1608.03665) [NIPS2016]  [Code](https://github.com/wenwei202/caffe/tree/scnn)
+4. [Sparse Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)
 
 ### Quantization
 1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [ICLR2017]
