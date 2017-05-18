@@ -45,5 +45,8 @@ Related Paper of Efficient Deep Neural Networks
 1. 
 2.
 ## Related company and product
-1.[movidius](https://www.movidius.com/solutions)
-2.[]
+1.[Movidius](https://www.movidius.com/solutions)
+
+2.[DeePhi Tech](http://www.deephi.com/)
+
+3. [Google TPU]
