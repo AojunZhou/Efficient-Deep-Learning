@@ -49,4 +49,4 @@ Related Paper of Efficient Deep Neural Networks
 
 2.[DeePhi Tech](http://www.deephi.com/)
 
-3. [Google TPU]
+3.[Google TPU]
