@@ -44,3 +44,6 @@ Related Paper of Efficient Deep Neural Networks
 ## Hardware Optimation
 1. 
 2.
+## Related company and product
+1.[movidius](https://www.movidius.com/solutions)
+2.[]
