@@ -24,7 +24,7 @@ Related Paper of Efficient Deep Neural Networks
 6. [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)  [Code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/DoReFa-Net)
 7. [Binaryconnect: Training deep neural networks with binary weights during propagations](https://arxiv.org/pdf/1511.00363.pdf) [NIPS 2015]
 8. [Binarize neural networks: Training deep neural networks with weights and activations constrained to +1 or -1](https://arxiv.org/abs/1602.02505) [NIPS 2016]
-9.
+9. [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 10.
 11.
 
@@ -42,5 +42,5 @@ Related Paper of Efficient Deep Neural Networks
 
 
 ## Hardware Optimation
-1.
+1. 
 2.
