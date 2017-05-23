@@ -54,5 +54,5 @@ Related Paper of Efficient Deep Neural Networks
 
 
 
-4. [Nvidia Tesla V100](https://devblogs.nvidia.com/parallelforall/inside-volta/)
+4.[Nvidia Tesla V100](https://devblogs.nvidia.com/parallelforall/inside-volta/)
 
