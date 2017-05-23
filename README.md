@@ -50,3 +50,5 @@ Related Paper of Efficient Deep Neural Networks
 2.[DeePhi Tech](http://www.deephi.com/)
 
 3.[Google TPU]
+
+4. [Nvidia Tesla V100](https://devblogs.nvidia.com/parallelforall/inside-volta/)
