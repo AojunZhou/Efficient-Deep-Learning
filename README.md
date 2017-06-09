@@ -17,6 +17,7 @@ Related Paper of Efficient Deep Neural Networks
 
 ### Quantization
 1. [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [ICLR 2017]
+2. [https://arxiv.org/pdf/1706.02393.pdf]
 2. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149v5.pdf) [ICLR 2016]
 3. [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) [ECCV 2016]  [Code](https://github.com/allenai/XNOR-Net)
 4. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://www.arxiv.org/abs/1609.07061)
