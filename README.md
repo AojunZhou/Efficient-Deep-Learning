@@ -1,10 +1,10 @@
 # Efficient-Deep-Learning
 Related Paper of Efficient Deep Neural Networks
 
-## Reviews and Tutorials
+## Reviews, Tutorials, Blog
 1. [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039)
 2. [High-Performance Hardware for Machine Learning](https://media.nips.cc/Conferences/2015/tutorialslides/Dally-NIPS-Tutorial-2015.pdf)
-
+3. [series of deep learning on iphone blogs](http://machinethink.net/blog/)
 ## Sparse, Quantization and Compression
 
 ### Sparse
